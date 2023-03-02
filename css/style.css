@@ -1,0 +1,39 @@
+.banner{
+    height: 250px;
+    width: 100%;
+}
+.link{
+    color: magenta;
+    font-size: medium;
+    
+}
+h1{
+    background-color: rgb(179, 255, 230);
+    color: lightskyblue;
+    text-align: center;
+}
+.fotoPersonal{
+    width: 150px;
+    margin-left: 50%;
+    
+}
+h2{
+    color: blue;
+    background-color: bisque;
+    font-family: monospace;
+    text-decoration: underline;
+}
+.datos{
+    font-weight: bold;
+    font-style: oblique;
+}
+.ig{
+    width: 20px;
+}
+.wpp{
+    width: 20px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+}
